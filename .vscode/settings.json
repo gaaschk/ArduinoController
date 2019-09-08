@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/kevingaasch/.platformio/penv/bin:/Users/kevingaasch/.platformio/penv:/Users/kevingaasch/.pyenv/shims:/Users/kevingaasch/.nvm/versions/node/v10.15.3/bin:/Users/kevingaasch/Library/Python/2.7/bin:/Users/kevingaasch/Library/Python/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/usr/local/share/dotnet:~/.dotnet/tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
